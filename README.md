@@ -52,9 +52,6 @@
       height="40"
     />
   </a>
-</p>
-
-<p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="react">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -95,21 +92,10 @@
       height="40"
     />
   </a>
-</p>
-
-<p align="left">
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" title="reactnative">
     <img
       src="https://reactnative.dev/img/header_logo.svg"
       alt="reactnative"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer" title="objectivec">
-    <img
-      src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg"
-      alt="objectivec"
       width="40"
       height="40"
     />
@@ -122,9 +108,6 @@
       height="40"
     />
   </a>
-</p>
-
-<p align="left">
     <a href="https://developer.apple.com/app-store-connect/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apple/apple-original.svg" 
         alt="app store connect" 
@@ -156,9 +139,6 @@
       height="40"
     />
   </a>
-</p>
-
-<p align="left">
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" title="mssql">
     <img
       src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
@@ -199,9 +179,6 @@
       height="40"
     />
   </a>
-</p>
-
-<p> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" title="bash">
     <img
       src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
@@ -234,9 +211,6 @@
       height="40"
     />
   </a>
-</p>
-
-<p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" title="arduino">
     <img
       src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
@@ -285,5 +259,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkankrcl&show_icons=true&locale=en&layout=compact" alt="furkankrcl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkankrcl&show_icons=true&locale=en" alt="furkankrcl" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkankrcl&" alt="furkankrcl" /></p>
