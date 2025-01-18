@@ -17,8 +17,6 @@
     <img src="https://komarev.com/ghpvc/?username=furkankrcl&label=Profile%20views&color=0e75b6&style=flat" alt="furkankrcl" />
 </p>
 
-### Languages and Tools:
-
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="nodejs">
     <img
